@@ -28,10 +28,12 @@ Choose the source currency.
 Hit "Swap" to switch between currencies.
 Select your target currency.
 Click "Convert" to see the magic happen!
-Get Started:
 
+
+Get Started:
 
 Clone this repository.
 
 Run npm install to install dependencies.
+
 Run npm start to launch the app locally.
