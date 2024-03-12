@@ -20,6 +20,7 @@ Features:
 🎨 Attractive Styling: Tailwind CSS brings vibrant colors and stylish elements to the UI.
 🔄 Easy Swap: Instantly switch between source and target currencies with the "Swap" button.
 💡 User-Friendly: Simply enter the amount, choose currencies, and hit "Convert"!
+
 Usage:
 
 Enter your desired amount.
@@ -29,6 +30,8 @@ Select your target currency.
 Click "Convert" to see the magic happen!
 Get Started:
 
+
 Clone this repository.
+
 Run npm install to install dependencies.
 Run npm start to launch the app locally.
